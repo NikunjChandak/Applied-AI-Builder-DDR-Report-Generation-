@@ -88,16 +88,6 @@ The generated report includes:
 
 ---
 
-## 🔐 Environment Variables
-
-Create a `.env` file and add:
-
-```
-API_KEY=your_api_key_here
-```
-
----
-
 ## 💡 Key Highlights
 
 * End-to-end AI workflow automation
